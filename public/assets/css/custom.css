@@ -1,0 +1,17 @@
+.btn-warning {
+  background-color: #19376D;
+  border-color: #19376D;
+}
+
+.btn-warning:hover {
+  background-color: #576CBC;
+  border-color: #576CBC;
+} 
+
+.nav-link:hover {
+  color: #576CBC !important;
+}
+
+.link-900:hover {
+  color: #576CBC !important;
+}
